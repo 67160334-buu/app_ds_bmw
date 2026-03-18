@@ -1,0 +1,1 @@
+["car_id", "model", "year", "engine_size", "horsepower", "fuel_type", "transmission", "drivetrain", "mileage_km", "fuel_consumption_l_per_100km", "co2_emissions_g_km", "doors", "seats", "body_type", "color", "owner_count", "accident_history", "service_history", "country_sold"]

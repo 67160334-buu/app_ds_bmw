@@ -1,0 +1,31 @@
+{
+  "model_type": "RandomForestRegressor",
+  "r2_score": 0.9035,
+  "n_features": 19,
+  "feature_names": [
+    "car_id",
+    "model",
+    "year",
+    "engine_size",
+    "horsepower",
+    "fuel_type",
+    "transmission",
+    "drivetrain",
+    "mileage_km",
+    "fuel_consumption_l_per_100km",
+    "co2_emissions_g_km",
+    "doors",
+    "seats",
+    "body_type",
+    "color",
+    "owner_count",
+    "accident_history",
+    "service_history",
+    "country_sold"
+  ],
+  "target_names": [
+    "price_usd"
+  ],
+  "training_samples": 8000,
+  "test_samples": 2000
+}
